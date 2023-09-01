@@ -1,0 +1,13 @@
+Name: Templates
+Type: FolderType
+Children:
+- Name: MyFancyButton
+  Id: g=8a6f95af0003be24a99368a63e0d1f2b
+  Supertype: Button
+  ReferenceType: HasComponent
+  Children:
+  - Name: Appearance
+    Type: BaseVariableType
+    DataType: String
+    ModellingRule: Optional
+    Value: "borderedrectangular"
