@@ -130,4 +130,4 @@ Children:
   - Name: MaxNumberOfConnections
     Type: BaseDataVariableType
     DataType: UInt32
-    Value: 10
+    Value: 11
